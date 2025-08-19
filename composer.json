@@ -1,0 +1,14 @@
+{
+    "name": "norman-huth/data-collections",
+    "description": "A curated collection of reference data arrays for use in applications. Includes ISO currencies, languages, countries (with translations), color palettes, and more",
+    "license": "CC0-1.0",
+    "authors": [
+        {
+            "name": "Norman Huth",
+            "homepage": "https://huth.it"
+        }
+    ],
+    "require-dev": {
+        "laravel/pint": "^1.24"
+    }
+}

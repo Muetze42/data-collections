@@ -1,0 +1,23 @@
+<?php
+
+declare(strict_types=1);
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Password Reset Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are the default lines which match reasons
+    | that are given by the password broker for a password update attempt
+    | outcome such as failure due to an invalid password / reset token.
+    |
+    */
+
+    'reset' => 'Zure pasahitza berrezarri da!',
+    'sent' => 'Zure pasahitza berrezartzeko esteka postaz bidali dizugu!',
+    'throttled' => 'Mesedez, itxaron aurretik berriro saiatzean.',
+    'token' => 'Pasahitza berreskuratzeko tokena baliogabea da.',
+    'user' => 'Ezin izan dugu helbide elektroniko horrekin bat datorren erabiltzailerik aurkitu.',
+];

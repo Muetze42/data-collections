@@ -1,0 +1,22 @@
+# JetBrains IDEs
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+.history/
+.code-workspace
+
+# Cursor IDE
+.cursor/
+
+# Mac & System
+.DS_Store
+Thumbs.db
+*/.DS_Store
+*/Thumbs.db
+
+vendor/
+node_modules/
+
+/.php-cs-fixer.cache

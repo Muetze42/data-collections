@@ -1,0 +1,23 @@
+<?php
+
+declare(strict_types=1);
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Password Reset Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are the default lines which match reasons
+    | that are given by the password broker for a password update attempt
+    | outcome such as failure due to an invalid password / reset token.
+    |
+    */
+
+    'reset' => 'നിങ്ങളുടെ പാസ്‌വേഡ് പുനഃസജ്ജമാക്കിയിരിക്കുന്നു.',
+    'sent' => 'നിങ്ങളുടെ പാസ്‌വേഡ് റീസെറ്റ് ലിങ്ക് ഞങ്ങൾ ഇമെയിൽ ചെയ്തു.',
+    'throttled' => 'വീണ്ടും ശ്രമിക്കുന്നതിന് മുമ്പ് ദയവായി കാത്തിരിക്കുക.',
+    'token' => 'ഈ പാസ്‌വേഡ് റീസെറ്റ് ടോക്കൺ അസാധുവാണ്.',
+    'user' => 'ആ ഇമെയിൽ വിലാസമുള്ള ഒരു ഉപയോക്താവിനെ കണ്ടെത്താൻ ഞങ്ങൾക്ക് കഴിയുന്നില്ല.',
+];
